@@ -151,7 +151,7 @@ la simulación, y el día tenía 70 % de luz (16,8 h), que no se parece a un dí
 real.
 
 - **Horas de sol reales.** `DAYLIGHT_HOURS = 12.5`, con el amanecer a las 06:00
-  y el ocaso a las 18:30 (latitud de Jujuy, cerca del equinoccio). El resto del
+  y el ocaso a las 18:30 (latitud de Pinedo, Chaco, cerca del equinoccio). El resto del
   día, 11,5 h, es noche real. La fracción de luz pasa de 0,70 a 0,52 del ciclo;
   el mediodía solar cae en la fase 0,26 (~12:15).
 - **Tiempo acelerado, x144.** Sigue habiendo un día de 24 h cada 600 s de reloj:

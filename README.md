@@ -2,7 +2,7 @@
 
 ![banner](docs/banner.svg)
 
-**Mini-SCADA de laboratorio** para un parque solar utility-scale (**Cauchari, Jujuy — 40 MW**): agentes de campo que leen los equipos en tiempo real, un gateway FastAPI que los recibe y un dashboard tipo centro de comando con drill-down planta → bloque → inversor. Los equipos son simulados (150 inversores y 450 trackers en 6 bloques, estación transformadora 132/34,5 kV, controlador de planta y una estación meteorológica con días despejados, nublados y de lluvia), pero **los protocolos son reales**: Modbus TCP dentro del parque e IEC 60870-5-104 hacia el despacho. Segundo proyecto de la serie **OT-Integraciones** de [@jmsD3v](https://github.com/jmsD3v).
+**Mini-SCADA de laboratorio** para un parque solar utility-scale (**La Corzuela, Pinedo, Chaco — simulado a 40 MW**): agentes de campo que leen los equipos en tiempo real, un gateway FastAPI que los recibe y un dashboard tipo centro de comando con drill-down planta → bloque → inversor. Los equipos son simulados (150 inversores y 450 trackers en 6 bloques, estación transformadora 132/34,5 kV, controlador de planta y una estación meteorológica con días despejados, nublados y de lluvia), pero **los protocolos son reales**: Modbus TCP dentro del parque e IEC 60870-5-104 hacia el despacho. Segundo proyecto de la serie **OT-Integraciones** de [@jmsD3v](https://github.com/jmsD3v).
 
 ![Python 3.14](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)

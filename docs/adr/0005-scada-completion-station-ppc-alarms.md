@@ -34,7 +34,7 @@ como perdida a los 90 s (3 latidos); si calla casi todo un bloque, es una sola a
 para codificar (simulador) y decodificar (agente): agregar una magnitud es una línea.
 Inversor: tensión y corriente por fase, Q/S/cos φ, 9 MPPT, aislamiento, eficiencia, energía
 del día, motivo de limitación. Tracker: controlador con objetivo, motor, batería, finales
-de carrera. Meteorología: POA, lluvia, ensuciamiento, presión (~620 hPa a 4.000 m), ráfaga.
+de carrera. Meteorología: POA, lluvia, ensuciamiento, presión (~1.000 hPa a ~100 m), ráfaga.
 STS: reactiva, nivel/presión de aceite, ventilación.
 
 ### Estación transformadora acoplada a los bloques
